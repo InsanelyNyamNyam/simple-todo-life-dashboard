@@ -1,2 +1,30 @@
-# simple-todo-life-dashboard
-A simple productivity dashboard built with HTML, CSS, and Vanilla JavaScript. Features a real-time clock, dynamic greeting, 25-minute focus timer, to-do list with Local Storage support, and customizable quick links.
+# Simple To-Do List Life Dashboard
+
+A simple productivity dashboard built with HTML, CSS, and Vanilla JavaScript.
+
+## Features
+
+- Real-time clock and date
+- Dynamic greeting based on time of day
+- 25-minute focus timer
+- Add, edit, complete, and delete tasks
+- Local Storage support for tasks
+- Customizable quick links
+- Responsive and user-friendly interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- Vanilla JavaScript
+- Browser Local Storage API
+
+## Project Structure
+
+```text
+/
+├── index.html
+├── css/
+│   └── style.css
+└── js/
+    └── app.js
